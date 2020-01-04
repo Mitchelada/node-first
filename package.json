@@ -1,0 +1,17 @@
+{
+    "name": "unidad-3-bases-de-node",
+    "version": "1.0.0",
+    "description": "Es una aplicacion de linea de comandos",
+    "main": "app.js",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "express": "^4.17.1",
+        "yargs": "^15.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Michel Araya",
+    "license": "ISC"
+}
